@@ -80,6 +80,19 @@ table thead {
 table .text {
   width: 50%;
 }
+
+.sotto-articolo {
+  margin-top: 20px;
+}
 /* end main */
 
-<!
+/* inizio footer*/
+footer {
+  margin-top: 20px;
+}
+
+.back-img {
+  background-image: url(../img/monitor.jpg);
+  color: white;
+}
+/* fine  footer*/
